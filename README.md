@@ -16,13 +16,21 @@ If you see a package or project here that is no longer maintained or is not a go
 
 DISCLAIMER: Cisco does not make any commitments about the resources listed in this document, nor the accuracy of the third party resources and any content accessible via the links below.
 
-
+- [!Get Started!](#!get-started!)
 - [Code samples](#code-samples)
 - [Dev Tools](#developer-tools)
 - [Reference](#reference)
-   - [Online Documentation](#online-documentation)
    - [PDF Guides](#PDF-guides)
-   - [Tutorials](#tutorials)
+
+
+## !Get started!
+
+*Tour the xAPI capabilities via step-by-step tutorials*
+
+* [Introduction to xAPI](https://learninglabs.cisco.com/lab/collab-xapi-intro/step/1) - Learn to invoke your device's API via SSH, HTTP and Node.js (by Cisco DevNet).
+* [In-Room Controls](https://learninglabs.cisco.com/lab/collab-xapi-controls/step/1) - Create an "Ultrasound Panel" animated via Node.js or a Macro (by Cisco DevNet).
+* [Macro Scripting](https://github.com/ObjectIsAdvantag/xapi-samples/blob/master/macros/pdf/macro-tutorial.pdf) - Write your first Macro scripts (by Cisco CE).
+* [Personalizing your device](https://learninglabs.cisco.com/lab/collab-xapi-branding/step/1) - Add your own logo and custom messages from code (by Cisco DevNet).
 
 
 ## Code samples
@@ -52,7 +60,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * DevNet Sandboxes - Reserve and code against a RoomKit device for up to a week 
    * [CE 9.2.1]() - RoomKit Sandbox equiped with CE 9.2.1.
    * [CE 9.3]() - RoomKit Sandbox equiped with CE 9.3.
-* [Playground](https://controls-editor.herokuapp.com) - Experience the In-Room Controls Editor with no Webex device at hand (by ObjectIsAdvantag).
+* [Playground](https://controls-editor.herokuapp.com) - Experience the In-Room Controls Editor with no device at hand (by ObjectIsAdvantag).
 * [postman-xapi](https://github.com/CiscoDevNet/postman-xapi) - Postman collections for xAPI (by ObjectIsAdvantag).
 * [roomkit-collector](https://github.com/ObjectIsAdvantag/roomkit-collector) - Collects PeopleCount from RoomKits and computes weighted averages (by ObjectIsAdvantag).
 * [Send-XCommand](https://github.com/unifiedfx/Send-XCommand) - Powershell Cmdlets for sending xConfiguration & xCommand requests (by stephenwelsh).
@@ -60,20 +68,18 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Reference
 
-### Online Documentation
+*Documentation, product resources and technical support.*
 
-*Online documentation, product resources and technical support.*
-
+* Help Articles
+    * [Advanced Settings](https://collaborationhelp.cisco.com/article/en-us/n5pqqcm) - Advanced Settings for Room and Desk Devices
+    * [Integrating](https://collaborationhelp.cisco.com/article/en-us/n18glho) - In-Room Controls and Use of an External Video Switch with Room Devices
+    * [Local user](https://collaborationhelp.cisco.com/article/en-us/jkhs20) - Local User Administration on Room and Desk Devices
+    * [Screens Setup Tips](https://collaborationhelp.cisco.com/article/en-us/nyi4lcq) - Recommended external screen settings for Room Devices.
 * Reference Portals and Dev Centers
     * [Configuration guides](https://www.cisco.com/c/en/us/support/collaboration-endpoints/telepresence-quick-set-series/products-installation-and-configuration-guides-list.html) - Configure your Touch10 interface or 3rd party Video Switchers
     * [Developer Portal](https://developer.cisco.com/site/roomdevices/) - Technical resources for developers and integrators.
     * [Product resources](https://www.cisco.com/c/en/us/support/collaboration-endpoints/index.html) - Resources for all Supported Collaboration Endpoints.
     * [Project Workplace](https://projectworkplace.cisco.com) - Discover Cisco's devices portfolio, product features and recommandations.
-* Online Help Articles
-    * [Advanced Settings](https://collaborationhelp.cisco.com/article/en-us/n5pqqcm) - Advanced Settings for Room and Desk Devices
-    * [Integrating](https://collaborationhelp.cisco.com/article/en-us/n18glho) - In-Room Controls and Use of an External Video Switch with Room Devices
-    * [Local user](https://collaborationhelp.cisco.com/article/en-us/jkhs20) - Local User Administration on Room and Desk Devices
-    * [Screens Setup Tips](https://collaborationhelp.cisco.com/article/en-us/nyi4lcq) - Recommended external screen settings for Room Devices.
 * Technical Support
     * [Forums](https://supportforums.cisco.com/t5/telepresence/bd-p/5886-discussions-telepresence) - Telepresence forum by Cisco Support Community.
     * ['xAPI devs' space](https://eurl.io/#rkp76XDrG) - Chat live in Webex Teams with other developers.
@@ -86,9 +92,10 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [Creston](http://applicationmarket.crestron.com/cisco/)
     * [Extron](https://www.extron.com/company/article.aspx?id=ciscotouch)
 
+
 ### PDF Guides
 
-*Administration guides, and API Reference for xConfiguration, xCommand, xStatus*
+*Administration guides, and API Reference for xConfiguration, xCommand, xStatus.*
 
 * CE 9.2
     * [Customization guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/sx-mx-dx-room-kit-customization-guide-ce92.pdf)
@@ -97,10 +104,3 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [RoomKit - API Reference](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/room-kit-api-reference-guide-ce92.pdf)
 * CE 9.3
     * [Customization guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce93/sx-mx-dx-room-kit-customization-guide-ce93.pdf)
-
-### Tutorials
-
-* [Introduction](https://learninglabs.cisco.com/lab/collab-xapi-intro/step/1) - Learn to invoke your device's API via SSH, HTTP and Node.js (by Cisco DevNet).
-* [In-Room Controls and Macros](https://learninglabs.cisco.com/lab/collab-xapi-controls/step/1) - Create an "Ultrasound Panel" and control it from Node.js and Macros (by Cisco DevNet).
-* [Macro Scripting](https://github.com/ObjectIsAdvantag/xapi-samples/blob/master/macros/pdf/macro-tutorial.pdf) - Write your first Macro scripts (by Cisco CE).
-* [Personalizing your device](https://learninglabs.cisco.com/lab/collab-xapi-branding/step/1) - Add your own logo and custom messages from code (by Cisco DevNet).
