@@ -20,7 +20,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 - [Code samples](#code-samples)
 - [Dev Tools](#developer-tools)
 - [Reference](#reference)
-   - [PDF Guides](#PDF-guides)
+   - [PDF Guides](#pdf-guides)
 
 
 ## !Get started!
@@ -57,9 +57,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Handy tools to interact with CE devices.*
 
 * [CiscoTPCustomXML](https://github.com/voipnorm/CiscoTPCustomXML) - Deploy packages to Cisco Telepresence apps (by voipnorm).
-* DevNet Sandboxes - Reserve and code against a RoomKit device for up to a week 
-   * [CE 9.2.1]() - RoomKit Sandbox equiped with CE 9.2.1.
-   * [CE 9.3]() - RoomKit Sandbox equiped with CE 9.3.
+* DevNet Sandboxes - Reserve and code against Webex devices for up to a week 
+   * [CE 9.2.1](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.2.1.
+   * [CE 9.3](https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.3.
 * [Playground](https://controls-editor.herokuapp.com) - Experience the In-Room Controls Editor with no device at hand (by ObjectIsAdvantag).
 * [postman-xapi](https://github.com/CiscoDevNet/postman-xapi) - Postman collections for xAPI (by ObjectIsAdvantag).
 * [roomkit-collector](https://github.com/ObjectIsAdvantag/roomkit-collector) - Collects PeopleCount from RoomKits and computes weighted averages (by ObjectIsAdvantag).
