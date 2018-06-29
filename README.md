@@ -25,7 +25,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## !Get started!
 
-*Tour the xAPI capabilities via step-by-step tutorials*
+*Tour the xAPI capabilities via step-by-step tutorials.*
 
 * [Introduction to xAPI](https://learninglabs.cisco.com/lab/collab-xapi-intro/step/1) - Learn to invoke your device's API via SSH, HTTP and Node.js (by Cisco DevNet).
 * [In-Room Controls](https://learninglabs.cisco.com/lab/collab-xapi-controls/step/1) - Create an "Ultrasound Panel" animated via Node.js or a Macro (by Cisco DevNet).
@@ -98,10 +98,13 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Administration guides, and API Reference for xConfiguration, xCommand, xStatus.*
 
-* CE 9.2
-    * [Customization guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/sx-mx-dx-room-kit-customization-guide-ce92.pdf)
-    * [DX70/DX80 - API Reference](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/dx70-dx80-api-reference-guide-ce92.pdf)
-    * [RoomKit - Administration guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/room-kit-administrator-guide-ce92.pdf)
-    * [RoomKit - API Reference](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/room-kit-api-reference-guide-ce92.pdf)
+* CE 9.4
+    * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce94/collaboration-endpoint-software-api-reference-guide-ce94.pdf)
 * CE 9.3
-    * [Customization guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce93/sx-mx-dx-room-kit-customization-guide-ce93.pdf)
+    * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce93/collaboration-endpoint-software-api-reference-guide-ce93.pdf)
+    * [Customization Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce93/sx-mx-dx-room-kit-customization-guide-ce93.pdf)
+* CE 9.2
+    * [Administration Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/room-kit-administrator-guide-ce92.pdf)
+    * [API Reference Guide (DX70/DX80)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/dx70-dx80-api-reference-guide-ce92.pdf)
+    * [API Reference Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/room-kit-api-reference-guide-ce92.pdf)
+    * [Customization Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/sx-mx-dx-room-kit-customization-guide-ce92.pdf)
