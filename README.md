@@ -37,6 +37,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Basic samples to end-to-end applications illustrating the xAPI capabilities.*
 
+* HttpFeedback
+   * [codec-dashboard](https://github.com/gsheppar/codec-dashboard) - Web dashboard to display/alert on codec information (by gsheppar).
 * In-Room Controls
    * [maze game](https://github.com/ObjectIsAdvantag/xapi-samples/tree/master/controls/maze) - Navigate blind in a maze, look for the treasure (by ObjectIsAdvantag).
 * Node.js (jsxapi)
