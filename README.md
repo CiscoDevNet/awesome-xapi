@@ -113,6 +113,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce95/collaboration-endpoint-software-api-reference-guide-ce95.pdf)
 * CE 9.4
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce94/collaboration-endpoint-software-api-reference-guide-ce94.pdf)
+    * [Customization Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce94/sx-mx-dx-room-kit-customization-guide-ce94.pdf)
 * CE 9.3
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce93/collaboration-endpoint-software-api-reference-guide-ce93.pdf)
     * [Customization Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce93/sx-mx-dx-room-kit-customization-guide-ce93.pdf)
