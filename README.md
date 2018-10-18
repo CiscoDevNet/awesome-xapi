@@ -18,6 +18,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 - [!Get Started!](#!get-started!)
 - [Code samples](#code-samples)
+- [Community Articles](#community-articles)
 - [Dev Tools](#developer-tools)
 - [Reference](#reference)
    - [PDF Guides](#pdf-guides)
@@ -53,6 +54,14 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [roomie](https://bitbucket.org/bjolseth/roomie) - App reporting whether there are people in the meeting rooms (by bjolseth).
    * [roomkit-react-map](https://github.com/ObjectIsAdvantag/roomkit-react-map) - React map showing PeopleCount analytics fired by a set of RoomKits (by ObjectIsAdvantag).
    * [telehealthPresence](https://github.com/voipnorm/telehealthPresence) - Add additional presence states for video endpoints in Jabber (by voipnorm).
+
+
+## Community Articles
+
+*Blog entries that promote xAPI, cover use cases and propose code samples.*
+
+* [blue-jeans meetings](https://community.bluejeans.com/bluejeans/topics/using-the-cisco-room-system-apis-to-simplify-bluejeans-meetings) - Using the Cisco Room System API's to simplify meetings.
+* [cisco developer blog](https://blogs.cisco.com/developer/build-apps-for-webex-devices) - Learn How To Build Applications for Webex Devices. 
 
 
 ## Developer Tools
