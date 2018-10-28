@@ -41,7 +41,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * HttpFeedback
    * [codec-dashboard](https://github.com/gsheppar/codec-dashboard) - Web dashboard to display/alert on codec information (by gsheppar).
 * In-Room Controls
-   * [CE9-projects](https://github.com/technologyordie/CE9-projects) - Projects for Cisco DX, MX, SX and Room Systems (by technologyordie).
    * [maze game](https://github.com/ObjectIsAdvantag/xapi-samples/tree/master/controls/maze) - Navigate blind in a maze, look for the treasure (by ObjectIsAdvantag).
 * Node.js (jsxapi)
    * [jsxapi](https://github.com/cisco-ce/jsxapi) - JavaScript bindings for Cisco Collaboration Endpoint  XAPI (by Cisco CE).
