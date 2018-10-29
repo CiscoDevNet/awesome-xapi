@@ -101,6 +101,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [CE Release notes](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/software/ce9/release-notes/ce-software-release-notes-ce9.pdf) - New features and functionality in CE9.
     * [Known issues](https://collaborationhelp.cisco.com/article/en-us/yurdv2) - Known and Resolved issues for Cloud-registered Room and Desk devices.
     * [What's new](https://collaborationhelp.cisco.com/article/en-us/DOC-10372) - New features and capabilities for Cloud-registered Room devices.
+* Videos
+    * [Presenter Track](https://www.youtube.com/watch?v=-MKlCT1xupM) - Demonstrate how PresenterTrack behaves in a few common scenarios.
 * 3rd-party Control Systems
     * [AMX/Harman](https://trade.amx.com/Net/Inconcert/Devices/inconcertmainpage.aspx)
     * [Creston](http://applicationmarket.crestron.com/cisco/)
