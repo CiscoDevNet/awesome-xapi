@@ -114,6 +114,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Administration guides, and API Reference for xConfiguration, xCommand, xStatus.*
 
+* CE 9.6
+    * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce96/collaboration-endpoint-software-api-reference-guide-ce96.pdf)
 * CE 9.5
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce95/collaboration-endpoint-software-api-reference-guide-ce95.pdf)
 * CE 9.4
