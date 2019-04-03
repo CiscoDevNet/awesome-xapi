@@ -115,6 +115,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Administration guides, and API Reference for xConfiguration, xCommand, xStatus.*
 
 * [CE 9.x Release notes](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/software/ce9/release-notes/ce-software-release-notes-ce9.pdf)
+* CE 9.7
+    * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce97/collaboration-endpoint-software-api-reference-guide-ce97.pdf) - xConfiguration, xCommand, xStatus documentation.
+    * [xAPI over WebSocket](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/api/collaboration-endpoint-software-api-transport.pdf) - Amendment to connect to and use the API over WebSocket.
 * CE 9.6
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce96/collaboration-endpoint-software-api-reference-guide-ce96.pdf) - xConfiguration, xCommand, xStatus documentation.
     * [New features](https://community.cisco.com/t5/collaboration-voice-and-video/ce9-6-x-in-room-control-and-macros-usb-input-devices-http-post/ba-p/3765081) - USB input devices, HTTP POST/PUT, hiding default UI buttons.
