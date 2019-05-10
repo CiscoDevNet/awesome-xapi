@@ -91,9 +91,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [Advanced Settings](https://collaborationhelp.cisco.com/article/en-us/n5pqqcm) - Advanced Settings for Room and Desk Devices
     * [Integrating](https://collaborationhelp.cisco.com/article/en-us/n18glho) - In-Room Controls and Use of an External Video Switch with Room Devices
     * [Local user](https://collaborationhelp.cisco.com/article/en-us/jkhs20) - Local User Administration on Room and Desk Devices
-    * [Screens Setup Tips](https://collaborationhelp.cisco.com/article/en-us/nyi4lcq) - Recommended external screen settings for Room Devices.
-    * [USB input devices, HTTP POST / PUT and Hiding default UI buttons](https://community.cisco.com/t5/collaboration-voice-and-video/xapi-over-websocket-xows-ce9-7-x/ba-p/3831553) - Article on Cisco Community site with examples of new macros/xAPI features introduced by CE9.6.
-    * [xAPI over WebSocket](https://community.cisco.com/t5/collaboration-voice-and-video/xapi-over-websocket-xows-ce9-7-x/ba-p/3831553) - xAPI over WebSocket help article on Cisco Community site.
+    * [Screens setup tips](https://collaborationhelp.cisco.com/article/en-us/nyi4lcq) - Recommended external screen settings for Room Devices.
+    * [USB input-device](https://help.webex.com/en-us/nhqh1mf/Example-on-the-Use-of-a-Third-Party-USB-Input-Device) - Use of a 3rd party USB input device.
+    * [xAPI over WebSocket](https://community.cisco.com/t5/collaboration-voice-and-video/xapi-over-websocket-xows-ce9-7-x/ba-p/3831553) - xAPI over WebSocket article on Cisco Community site.
 * Reference Portals and Dev Centers
     * [Configuration guides](https://www.cisco.com/c/en/us/support/collaboration-endpoints/telepresence-quick-set-series/products-installation-and-configuration-guides-list.html) - Configure your Touch10 interface or 3rd party Video Switchers
     * [Developer Portal](https://developer.cisco.com/site/roomdevices/) - Technical resources for developers and integrators.
