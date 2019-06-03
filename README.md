@@ -76,7 +76,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [CiscoTPCustomXML](https://github.com/voipnorm/CiscoTPCustomXML) - Deploy packages to Cisco Telepresence apps (by voipnorm).
 * <a name="sandboxes">DevNet Sandboxes</a> - Reserve a CE device and code for up to a week.
    * [CE 9.3](https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.3.
-   * [CE 9.6](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.6.
+   * [CE 9.7](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.7.1
 * [Playground](https://controls-editor.herokuapp.com) - Experience the In-Room Controls Editor with no device at hand (by ObjectIsAdvantag).
 * [postman-xapi](https://github.com/CiscoDevNet/postman-xapi) - Postman collections for xAPI (by ObjectIsAdvantag).
 * [roomkit-collector](https://github.com/ObjectIsAdvantag/roomkit-collector) - Collects PeopleCount from RoomKits and computes weighted averages (by ObjectIsAdvantag).
