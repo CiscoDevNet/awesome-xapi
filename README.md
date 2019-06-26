@@ -64,7 +64,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Blog entries that promote xAPI, cover use cases and propose code samples.*
 
-* [blue-jeans meetings](https://community.bluejeans.com/bluejeans/topics/using-the-cisco-room-system-apis-to-simplify-bluejeans-meetings) - Using the Cisco Room System API's to simplify meetings.
 * [cisco developer blog](https://blogs.cisco.com/developer/build-apps-for-webex-devices) - Learn How To Build Applications for Webex Devices. 
 * [technology() or die;](http://technologyordie.com/category/collaboration) - Adam Schaeffer sharing projects and ideas.
 
