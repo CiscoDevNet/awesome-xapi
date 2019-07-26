@@ -111,6 +111,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [AMX/Harman](https://trade.amx.com/Net/Inconcert/Devices/inconcertmainpage.aspx)
     * [Creston](http://applicationmarket.crestron.com/cisco/)
     * [Extron](https://www.extron.com/company/article.aspx?id=ciscotouch)
+    * [Lightware](https://lightware.com/cisco-integration-tool/)
 
 
 ### PDF Guides
