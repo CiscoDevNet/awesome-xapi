@@ -50,13 +50,13 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [macros-sample](https://github.com/CiscoDevNet/roomdevices-macros-samples) - Selection of macros proposed by the xAPI dev team (by Cisco CE).
    * [xapi-samples](https://github.com/ObjectIsAdvantag/xapi-samples/tree/master/macros) - Macros to quickly ramp up with the xAPI of your Room Devices (by ObjectIsAdvantag).
 * Misc demos
-   * [Video status monitor](https://github.com/DJF3/Cisco-Video-System-Status-Monitor) - Webpage displaying call status and people count/presence.
    * [cisco-tp-snapshots](https://github.com/drkchiloll/cisco-tp-snapshots) - Take Snapshots with your Cisco Room Device, aka Telepresence Endpoint (by drkchiloll).
    * [feedback-meeting](https://github.com/tloyau/feedback-meeting) - Dashboard built from feedback collected via a custom "Call Survey" control (by tloyau).
    * [MyRoomKit](https://github.com/CiscoDevNet/botkit-webex-samples/tree/master/roomkit) - Botkit chatbot as an extension of a RoomKit device (by ObjectIsAdvantag).  
    * [roomie](https://bitbucket.org/bjolseth/roomie) - App reporting whether there are people in the meeting rooms (by bjolseth).
    * [roomkit-react-map](https://github.com/ObjectIsAdvantag/roomkit-react-map) - React map showing PeopleCount analytics fired by a set of RoomKits (by ObjectIsAdvantag).
    * [telehealthPresence](https://github.com/voipnorm/telehealthPresence) - Add additional presence states for video endpoints in Jabber (by voipnorm).
+   * [video status monitor](https://github.com/DJF3/Cisco-Video-System-Status-Monitor) - Web page displaying call status and people count/presence (by DJF3).
 * Python (pyxows)
    * [pyxows](https://github.com/cisco-ce/pyxows) - Python bindings for Cisco Collaboration Endpoint xAPI over WebSockets (by Cisco CE).
 
@@ -74,6 +74,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Handy tools to interact with CE devices.*
 
 * [CiscoTPCustomXML](https://github.com/voipnorm/CiscoTPCustomXML) - Deploy packages to Cisco Telepresence apps (by voipnorm).
+* [CLI](https://github.com/cisco-ce/pyxows/blob/master/xows/__main__.py) - Command-line utility built on top of pyxows (by Cisco CE).
 * <a name="sandboxes">DevNet Sandboxes</a> - Reserve a CE device and code for up to a week.
    * [CE 9.7](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.7.1
    * [CE 9.9](https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.9.
