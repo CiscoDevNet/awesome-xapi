@@ -129,32 +129,38 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 * [CE 9.x Release notes](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/software/ce9/release-notes/ce-software-release-notes-ce9.pdf)
 * CE 9.9
-    * [Administrator Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce99/room-kit-administrator-guide-ce99.pdf)
+    * [Administrator Guide (CodecPro)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce99/codec-pro-administrator-guide-ce99.pdf)
+    * [Administrator Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce99/room-kit-administrator-guide-ce99.pdf)
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce99/collaboration-endpoint-software-api-reference-guide-ce99.pdf)
 * CE 9.8
-    * [Administrator Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce98/room-kit-administrator-guide-ce98.pdf)
+    * [Administrator Guide (CodecPro)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce98/codec-pro-administrator-guide-ce98.pdf)
+    * [Administrator Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce98/room-kit-administrator-guide-ce98.pdf)
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce98/collaboration-endpoint-software-api-reference-guide-ce98.pdf)
 * CE 9.7
-    * [Administrator Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce97/room-kit-administrator-guide-ce97.pdf)
+    * [Administrator Guide (CodecPro)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce97/codec-pro-administrator-guide-ce97.pdf)
+    * [Administrator Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce97/room-kit-administrator-guide-ce97.pdf)
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce97/collaboration-endpoint-software-api-reference-guide-ce97.pdf) - xConfiguration, xCommand, xStatus documentation.
     * [xAPI over WebSocket](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/api/collaboration-endpoint-software-api-transport.pdf) - Amendment to connect to and use the API over WebSocket.
 * CE 9.6
-    * [Administrator Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce96/room-kit-administrator-guide-ce96.pdf)
+    * [Administrator Guide (CodecPro)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce96/codec-pro-administrator-guide-ce96.pdf)
+    * [Administrator Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce96/room-kit-administrator-guide-ce96.pdf)
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce96/collaboration-endpoint-software-api-reference-guide-ce96.pdf) - xConfiguration, xCommand, xStatus documentation.
     * [New features](https://community.cisco.com/t5/collaboration-voice-and-video/ce9-6-x-in-room-control-and-macros-usb-input-devices-http-post/ba-p/3765081) - USB input devices, HTTP POST/PUT, hiding default UI buttons.
 * CE 9.5
-    * [Administrator Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce95/room-kit-administrator-guide-ce95.pdf)
+    * [Administrator Guide (CodecPro)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce95/codec-pro-administrator-guide-ce95.pdf)
+    * [Administrator Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce95/room-kit-administrator-guide-ce95.pdf)
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce95/collaboration-endpoint-software-api-reference-guide-ce95.pdf)
 * CE 9.4
-    * [Administrator Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce94/room-kit-administrator-guide-ce94.pdf)
+    * [Administrator Guide (CodecPro)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce94/codec-pro-administrator-guide-ce94.pdf)
+    * [Administrator Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce94/room-kit-administrator-guide-ce94.pdf)
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce94/collaboration-endpoint-software-api-reference-guide-ce94.pdf)
     * [Customization Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce94/sx-mx-dx-room-kit-customization-guide-ce94.pdf)
 * CE 9.3
-    * [Administration Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce93/room-kit-administrator-guide-ce93.pdf)
+    * [Administration Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce93/room-kit-administrator-guide-ce93.pdf)
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce93/collaboration-endpoint-software-api-reference-guide-ce93.pdf)
     * [Customization Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce93/sx-mx-dx-room-kit-customization-guide-ce93.pdf)
 * CE 9.2
-    * [Administration Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/room-kit-administrator-guide-ce92.pdf)
+    * [Administration Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/room-kit-administrator-guide-ce92.pdf)
     * [API Reference Guide (DX70/DX80)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/dx70-dx80-api-reference-guide-ce92.pdf)
     * [API Reference Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/room-kit-api-reference-guide-ce92.pdf)
     * [Customization Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce92/sx-mx-dx-room-kit-customization-guide-ce92.pdf)
