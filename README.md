@@ -30,7 +30,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 * [Introduction to xAPI](https://learninglabs.cisco.com/lab/collab-xapi-intro/step/1) - Learn to invoke your device's API via SSH, HTTP and Node.js (by Cisco DevNet).
 * [In-Room Controls](https://learninglabs.cisco.com/lab/collab-xapi-controls/step/1) - Create an "Ultrasound Panel" animated via Node.js or a Macro (by Cisco DevNet).
-* [Macro Scripting](https://github.com/ObjectIsAdvantag/xapi-samples/blob/master/macros/pdf/macro-tutorial.pdf) - Write your first Macro scripts (by Cisco CE).
+* [Macro Scripting](https://github.com/CiscoDevNet/xapi-samples/blob/master/macros/pdf/macro-tutorial.pdf) - Write your first Macro scripts (by Cisco CE).
 * [Personalizing your device](https://learninglabs.cisco.com/lab/collab-xapi-branding/step/1) - Add your own logo and custom messages from code (by Cisco DevNet).
 
 
@@ -42,13 +42,13 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [codec-dashboard](https://github.com/gsheppar/codec-dashboard) - Web dashboard to display/alert on codec information (by gsheppar).
 * In-Room Controls
    * [CE9-projects](https://github.com/technologyordie/CE9-projects) - Projects for Cisco DX, MX, SX and Room Systems (by technologyordie).
-   * [maze game](https://github.com/ObjectIsAdvantag/xapi-samples/tree/master/controls/maze) - Navigate blind in a maze, look for the treasure (by ObjectIsAdvantag).
+   * [maze game](https://github.com/CiscoDevNet/xapi-samples/tree/master/controls/maze) - Navigate blind in a maze, look for the treasure (by ObjectIsAdvantag).
 * Node.js (jsxapi)
    * [jsxapi](https://github.com/cisco-ce/jsxapi) - JavaScript bindings for Cisco Collaboration Endpoint  XAPI (by Cisco CE).
-   * [jsxapi samples](https://github.com/ObjectIsAdvantag/xapi-samples/tree/master/jsxapi) - Example scripts using the Node.js jsxapi (by ObjectIsAdvantag).
+   * [jsxapi samples](https://github.com/CiscoDevNet/xapi-samples/tree/master/jsxapi) - Example scripts using the Node.js jsxapi (by ObjectIsAdvantag).
 * Macros (Javascript)
    * [macros-sample](https://github.com/CiscoDevNet/roomdevices-macros-samples) - Selection of macros proposed by the xAPI dev team (by Cisco CE).
-   * [xapi-samples](https://github.com/ObjectIsAdvantag/xapi-samples/tree/master/macros) - Macros to quickly ramp up with the xAPI of your Room Devices (by ObjectIsAdvantag).
+   * [xapi-samples](https://github.com/CiscoDevNet/xapi-samples/tree/master/macros) - Macros to quickly ramp up with the xAPI of your Room Devices (by ObjectIsAdvantag).
 * Misc demos
    * [cisco-tp-snapshots](https://github.com/drkchiloll/cisco-tp-snapshots) - Take Snapshots with your Cisco Room Device, aka Telepresence Endpoint (by drkchiloll).
    * [feedback-meeting](https://github.com/tloyau/feedback-meeting) - Dashboard built from feedback collected via a custom "Call Survey" control (by tloyau).
