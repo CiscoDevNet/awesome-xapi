@@ -22,7 +22,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 - [Developer Tools](#developer-tools)
    - [Sandboxes](#sandboxes)
 - [Reference](#reference)
-   - [PDF Guides](#pdf-guides)
+   - [PDF Guides](#reference-guides)
 
 
 ## !Get started!
@@ -129,9 +129,13 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *API Reference, Configuration and Administration guide for specific versions of CE and RoomOS.*
 
 * [CE 9.x Release notes](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/software/ce9/release-notes/ce-software-release-notes-ce9.pdf)
+* CE 9.10
+    * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce910/collaboration-endpoint-software-api-reference-guide-ce910.pdf)
+    * [Administrator Guide (CodecPro)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce910/codec-pro-administrator-guide-ce910.pdf)
+    * [Administrator Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce910/room-kit-administrator-guide-ce910.pdf)
+    * Customization Guide (coming)
 * CE 9.9
-    * [Blog: WebEngine](https://community.cisco.com/t5/collaboration-voice-and-video/a-dive-into-web-engine-and-the-new-ui-extensions-editor-digital/ba-p/3947191)
-    * [Blog: new UI Extensions Editor](https://community.cisco.com/t5/collaboration-voice-and-video/a-dive-into-web-engine-and-the-new-ui-extensions-editor-digital/ba-p/3947191)
+    * [Blog: WebEngine and new UI Extensions Editor](https://community.cisco.com/t5/collaboration-voice-and-video/a-dive-into-web-engine-and-the-new-ui-extensions-editor-digital/ba-p/3947191)
     * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce99/collaboration-endpoint-software-api-reference-guide-ce99.pdf)
     * [Administrator Guide (CodecPro)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce99/codec-pro-administrator-guide-ce99.pdf)
     * [Administrator Guide (RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce99/room-kit-administrator-guide-ce99.pdf)
