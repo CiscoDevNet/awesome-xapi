@@ -84,7 +84,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [CE 9.7](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.7.1
    * [CE 9.9](https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.9.
 * [Send-XCommand](https://github.com/unifiedfx/Send-XCommand) - Powershell Cmdlets for sending xConfiguration & xCommand requests (by stephenwelsh).
-* SIP addresses for testing purposes: 111@bjn.vc, fireplace@ivr.vc, goldfish@selfie.vc, halloween@ivr.vc, havnen@expressway.dk
+* SIP addresses for testing purposes: 111@bjn.vc, fireplace@ivr.vc, goldfish@selfie.vc, halloween@ivr.vc, havnen@expressway.dk.
 
 
 ## Reference
@@ -116,7 +116,12 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [Known issues](https://help.webex.com/en-us/llygcp/Known-and-Resolved-Issues-in-RoomOS) - Known and Resolved issues for RoomOS.
     * [What's new](https://help.webex.com/en-us/6ger7db/What-s-New-in-RoomOS) - New features and capabilities for RoomOS.
 * Videos
-    * [Presenter Track](https://www.youtube.com/watch?v=-MKlCT1xupM) - Demonstrate how PresenterTrack behaves in a few common scenarios.
+    * [Customizing Devices](https://www.youtube.com/watch?v=h9Hv829SM14&list=PL_YnWo4XhzTe8CyOppyhheB8UN40mDYiX) - Introduction to Video Series.
+    * [Kiosk](https://www.youtube.com/watch?v=zn9gDuPwyrY) - Removing default buttons.
+    * [Presenter Track](https://www.youtube.com/watch?v=-MKlCT1xupM) - How PresenterTrack behaves in a few common scenarios.
+    * [Timer](https://www.youtube.com/watch?v=YNN9rFbT6bk) - Timer creation for Webex devices.
+    * [UI Extensions](https://www.youtube.com/watch?v=kEXjGpMdVaU&list=PL_YnWo4XhzTe8CyOppyhheB8UN40mDYiX&index=3) - Creating a speed dial.
+    * [Web Apps](https://www.youtube.com/watch?v=qKqlIReRJog&t=6s) - Creating Web Applications on a Webex Board.
 * 3rd-party Control Systems
     * [AMX/Harman](https://trade.amx.com/Net/Inconcert/Devices/inconcertmainpage.aspx)
     * [Creston](http://applicationmarket.crestron.com/cisco/)
