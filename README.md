@@ -39,7 +39,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Articles
 
-*Blogs and coommunity articles that document features, cover use cases or propose code samples.*
+*Blogs and community articles that document features, cover use cases or propose code samples.*
 
 * Blogs introducting new Features
    * [Introducing HTTPClient](https://community.cisco.com/t5/collaboration-voice-and-video/ce9-6-x-in-room-control-and-macros-usb-input-devices-http-post/ba-p/3765081) - HTTP POST/PUT/GET/DELETE/PATCH with return
@@ -125,10 +125,13 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [Developer Portal](https://developer.cisco.com/site/roomdevices/) - Technical resources for developers and integrators.
    * [Product resources](https://www.cisco.com/c/en/us/support/collaboration-endpoints/index.html) - Resources for all Supported Collaboration Endpoints.
    * [Project Workplace](https://projectworkplace.cisco.com) - Discover Cisco's devices portfolio, product features and recommandations.
+* Release notes
+   * [CE 9.x Release notes](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/software/ce9/release-notes/ce-software-release-notes-ce9.pdf) - New features and functionality in CE9.
+   * [RoomOS What's new](https://help.webex.com/en-us/6ger7db/What-s-New-in-RoomOS) - New features and capabilities for RoomOS.
 * Technical Support
+   * ['xAPI devs' space](https://eurl.io/#rkp76XDrG) - Chat live with other developers in Webex Teams.
    * [Forums](https://supportforums.cisco.com/t5/telepresence/bd-p/5886-discussions-telepresence) - Telepresence forum by Cisco Support Community.
    * [Known issues](https://help.webex.com/en-us/llygcp/Known-and-Resolved-Issues-in-RoomOS) - Known and Resolved issues for RoomOS.   
-   * ['xAPI devs' space](https://eurl.io/#rkp76XDrG) - Chat live with other developers in Webex Teams.
 * Videos
    * [Customizing Devices](https://www.youtube.com/watch?v=h9Hv829SM14&list=PL_YnWo4XhzTe8CyOppyhheB8UN40mDYiX) - Introduction to Video Series.
    * [Kiosk](https://www.youtube.com/watch?v=zn9gDuPwyrY) - Removing default buttons.
@@ -142,9 +145,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *API Reference, Configuration and Administration guide for specific versions of CE and RoomOS.*
 
-* Release notes
-   * [CE 9.x Release notes](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/software/ce9/release-notes/ce-software-release-notes-ce9.pdf) - New features and functionality in CE9.
-   * [RoomOS What's new](https://help.webex.com/en-us/6ger7db/What-s-New-in-RoomOS) - New features and capabilities for RoomOS.
 * CE 9.10
    * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce910/collaboration-endpoint-software-api-reference-guide-ce910.pdf),[Administrator Guide (CodecPro)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce910/codec-pro-administrator-guide-ce910.pdf), and [(RoomKit)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce910/room-kit-administrator-guide-ce910.pdf), Customization Guide (coming)
 * CE 9.9
