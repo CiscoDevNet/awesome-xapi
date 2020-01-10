@@ -64,12 +64,13 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Community Articles
 
-*Blog entries that promote xAPI, cover use cases and propose code samples.*
+*Blogs and articles that promote xAPI, cover use cases and propose code samples.*
 
-* [cisco developer blog](https://blogs.cisco.com/developer/build-apps-for-webex-devices) - Learn How To Build Applications for Webex Devices. 
+* [Intro to xAPI](https://blogs.cisco.com/developer/build-apps-for-webex-devices) - Learn How To Build Applications for Webex Devices.
+* [Intro to XoWS](https://community.cisco.com/t5/collaboration-voice-and-video/xapi-over-websocket-xows-ce9-7-x/ba-p/3831553) - xAPI over WebSockets (pronounced cows).
+* [Intro to WebEngine](https://community.cisco.com/t5/collaboration-voice-and-video/a-dive-into-web-engine-and-the-new-ui-extensions-editor-digital/ba-p/3947191) - A dive into Web Engine, Digital Signage & Web Apps.
 * [SIP messaging channel](https://voipnorm.blogspot.com/2019/07/ce-sip-messaging-channel-for-remote.html) - SIP Messaging Channel for Remote Endpoint Control.
 * [technology() or die;](http://technologyordie.com/category/collaboration) - Adam Schaeffer sharing projects and ideas.
-* [xAPI over WebSockets](https://community.cisco.com/t5/collaboration-voice-and-video/xapi-over-websocket-xows-ce9-7-x/ba-p/3831553) - Introducing XoWS (pronounced cows).
 
 
 ## Developer Tools
