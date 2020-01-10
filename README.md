@@ -86,7 +86,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Handy tools to interact with CE devices.*
 
-* [CiscoTPCustomXML](https://github.com/voipnorm/CiscoTPCustomXML) - Deploy packages to Cisco Telepresence apps (by voipnorm).
+* [CE-Deploy](https://github.com/voipnorm/CE-Deploy) - Desktop application for deploying features (by voipnorm).
+* [CiscoTPCustomXML](https://github.com/voipnorm/CiscoTPCustomXML) - Deploy packages to Cisco Telepresence apps (by vipnorm).
 * [CLI](https://github.com/cisco-ce/pyxows/blob/master/xows/__main__.py) - Command-line utility built on top of pyxows (by Cisco CE).
 * [Playground](https://controls-editor.herokuapp.com) - Experience the In-Room Controls Editor with no device at hand (by ObjectIsAdvantag).
 * [postman-xapi](https://github.com/CiscoDevNet/postman-xapi) - Postman collections for xAPI (by ObjectIsAdvantag).
