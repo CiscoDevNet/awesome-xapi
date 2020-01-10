@@ -79,7 +79,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [Holy cows!](https://blog.webex.com/collaboration-devices/holy-cows-xows-delivering-the-art-of-possible-with-video-devices/) - Delivering the art of possible with video devices.
 * [SIP messaging channel](https://voipnorm.blogspot.com/2019/07/ce-sip-messaging-channel-for-remote.html) - SIP Messaging Channel for Remote Endpoint Control.
 * [technology() or die;](http://technologyordie.com/category/collaboration) - Adam Schaeffer sharing projects and ideas.
-
+* [WebSocket vs SSH vs HttpFeedback](http://voipnorm.blogspot.com/2019/07/ce-websocket-v-ssh-v-httpfeedback-which.html) - Which is Best?.
 
 
 ## Developer Tools
