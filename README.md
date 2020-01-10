@@ -19,14 +19,15 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 - [!Get Started!](#!get-started!)
 - [Code samples](#code-samples)
 - [Community Articles](#community-articles)
-- [Dev Tools](#developer-tools)
+- [Developer Tools](#developer-tools)
+   - [Sandboxes](#sandboxes)
 - [Reference](#reference)
    - [PDF Guides](#pdf-guides)
 
 
 ## !Get started!
 
-*Tour the xAPI capabilities via step-by-step tutorials.*
+*Tour the xAPI via step-by-step tutorials.*
 
 * [Introduction to xAPI](https://learninglabs.cisco.com/lab/collab-xapi-intro/step/1) - Learn to invoke your device's API via SSH, HTTP and Node.js (by Cisco DevNet).
 * [In-Room Controls](https://learninglabs.cisco.com/lab/collab-xapi-controls/step/1) - Create an "Ultrasound Panel" animated via Node.js or a Macro (by Cisco DevNet).
@@ -36,7 +37,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Code samples
 
-*Basic samples to end-to-end applications illustrating the xAPI capabilities.*
+*From basic examples to end-to-end applications illustrating the xAPI capabilities.*
 
 * HttpFeedback
    * [codec-dashboard](https://github.com/gsheppar/codec-dashboard) - Web dashboard to display/alert on codec information (by gsheppar).
@@ -80,13 +81,11 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [Playground](https://controls-editor.herokuapp.com) - Experience the In-Room Controls Editor with no device at hand (by ObjectIsAdvantag).
 * [postman-xapi](https://github.com/CiscoDevNet/postman-xapi) - Postman collections for xAPI (by ObjectIsAdvantag).
 * [roomkit-collector](https://github.com/ObjectIsAdvantag/roomkit-collector) - Collects PeopleCount from RoomKits and computes weighted averages (by ObjectIsAdvantag).
+* <a name="sandboxes">Sandboxes</a> - Reserve a CE device and code   for up to a week (by DevNet)
+    * [CE 9.7](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.7.1
+    * [CE 9.9](https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.9.
 * [Send-XCommand](https://github.com/unifiedfx/Send-XCommand) - Powershell Cmdlets for sending xConfiguration & xCommand requests (by stephenwelsh).
-* SIP for testing
-    * 111@bjn.vc
-    * fireplace@ivr.vc
-    * goldfish@selfie.vc
-    * halloween@ivr.vc
-    * havnen@expressway.dk
+* SIP addresses for testing purposes: 111@bjn.vc, fireplace@ivr.vc, goldfish@selfie.vc, halloween@ivr.vc, havnen@expressway.dk
 
 
 ## Reference
@@ -105,9 +104,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [Developer Portal](https://developer.cisco.com/site/roomdevices/) - Technical resources for developers and integrators.
     * [Product resources](https://www.cisco.com/c/en/us/support/collaboration-endpoints/index.html) - Resources for all Supported Collaboration Endpoints.
     * [Project Workplace](https://projectworkplace.cisco.com) - Discover Cisco's devices portfolio, product features and recommandations.
-* <a name="sandboxes">Sandboxes</a> - Reserve a CE device and code   for up to a week (by DevNet)
-    * [CE 9.7](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.7.1
-    * [CE 9.9](https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.9.
 * Technical Support
     * [Forums](https://supportforums.cisco.com/t5/telepresence/bd-p/5886-discussions-telepresence) - Telepresence forum by Cisco Support Community.
     * ['xAPI devs' space](https://eurl.io/#rkp76XDrG) - Chat live in Webex Teams with other developers.
