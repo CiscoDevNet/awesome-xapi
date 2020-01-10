@@ -17,6 +17,7 @@ If you see a package or project here that is no longer maintained or is not a go
 DISCLAIMER: Cisco does not make any commitments about the resources listed in this document, nor the accuracy of the third party resources and any content accessible via the links below.
 
 - [!Get Started!](#!get-started!)
+- [Building Blocks](#building-blocks)
 - [Code samples](#code-samples)
 - [Community Articles](#community-articles)
 - [Developer Tools](#developer-tools)
@@ -35,19 +36,29 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [Personalizing your device](https://learninglabs.cisco.com/lab/collab-xapi-branding/step/1) - Add your own logo and custom messages from code (by Cisco DevNet).
 
 
+## 
+
+*Helpder libraries to interact with CE codecs*
+
+* JavaScript
+   * [jsxapi](https://github.com/cisco-ce/jsxapi) - JavaScript bindings for Cisco Collaboration Endpoint  XAPI (by Cisco CE).
+   * [sugar](https://github.com/valgaze/sugar) - Syntactic "$ugar" for handling user input (by valgaze).
+* Python
+   * [pyxows](https://github.com/cisco-ce/pyxows) - Python bindings for Cisco Collaboration Endpoint xAPI over WebSockets (by Cisco CE).
+
+
 ## Code samples
 
 *From basic examples to end-to-end applications illustrating the xAPI capabilities.*
 
 * HttpFeedback
    * [codec-dashboard](https://github.com/gsheppar/codec-dashboard) - Web dashboard to display/alert on codec information (by gsheppar).
-* In-Room Controls
+* UI Extensions
    * [CE9-projects](https://github.com/technologyordie/CE9-projects) - Projects for Cisco DX, MX, SX and Room Systems (by technologyordie).
    * [maze game](https://github.com/CiscoDevNet/xapi-samples/tree/master/controls/maze) - Navigate blind in a maze, look for the treasure (by ObjectIsAdvantag).
-* Node.js (jsxapi)
-   * [jsxapi](https://github.com/cisco-ce/jsxapi) - JavaScript bindings for Cisco Collaboration Endpoint  XAPI (by Cisco CE).
+* jsxapi (standalone JavaScript)
    * [jsxapi samples](https://github.com/CiscoDevNet/xapi-samples/tree/master/jsxapi) - Example scripts using the Node.js jsxapi (by ObjectIsAdvantag).
-* Macros (Javascript)
+* Macros
    * [macros-sample](https://github.com/CiscoDevNet/roomdevices-macros-samples) - Selection of macros proposed by the xAPI dev team (by Cisco CE).
    * [xapi-samples](https://github.com/CiscoDevNet/xapi-samples/tree/master/macros) - Macros to quickly ramp up with the xAPI of your Room Devices (by ObjectIsAdvantag).
 * Misc demos
@@ -58,8 +69,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [roomkit-react-map](https://github.com/ObjectIsAdvantag/roomkit-react-map) - React map showing PeopleCount analytics fired by a set of RoomKits (by ObjectIsAdvantag).
    * [telehealthPresence](https://github.com/voipnorm/telehealthPresence) - Add additional presence states for video endpoints in Jabber (by voipnorm).
    * [video status monitor](https://github.com/DJF3/Cisco-Video-System-Status-Monitor) - Web page displaying call status and people count/presence (by DJF3).
-* Python (pyxows)
-   * [pyxows](https://github.com/cisco-ce/pyxows) - Python bindings for Cisco Collaboration Endpoint xAPI over WebSockets (by Cisco CE).
 
 
 ## Community Articles
