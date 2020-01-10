@@ -109,7 +109,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [CE 9.7 Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.7.
 * Test
    * [Playground](https://controls-editor.herokuapp.com) - Launch the UI Extensions Editor straight from Chrome, no codec (by ObjectIsAdvantag).
-   * SIP addresses for testing: 111@bjn.vc, fireplace@ivr.vc, goldfish@selfie.vc, halloween@ivr.vc, havnen@expressway.dk.
+   * SIP test addresses - 111@bjn.vc, fireplace@ivr.vc, goldfish@selfie.vc, halloween@ivr.vc, havnen@expressway.dk.
 * Deploy
    * [CE-Deploy](https://github.com/voipnorm/CE-Deploy) - Desktop application for deploying features (by voipnorm).
    * [CiscoTPCustomXML](https://github.com/voipnorm/CiscoTPCustomXML) - Deploy packages to Cisco Telepresence apps (by vipnorm).
