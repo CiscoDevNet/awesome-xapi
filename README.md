@@ -49,19 +49,20 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Code samples
 
-*From basic examples to end-to-end applications illustrating the xAPI capabilities.*
+*From basic examples to solutions illustrating the xAPI capabilities.*
 
 * HttpFeedback
    * [codec-dashboard](https://github.com/gsheppar/codec-dashboard) - Web dashboard to display/alert on codec information (by gsheppar).
 * UI Extensions
    * [CE9-projects](https://github.com/technologyordie/CE9-projects) - Projects for Cisco DX, MX, SX and Room Systems (by technologyordie).
    * [maze game](https://github.com/CiscoDevNet/xapi-samples/tree/master/controls/maze) - Navigate blind in a maze, look for the treasure (by ObjectIsAdvantag).
+   * [yolo-oslo](https://github.com/acaeti/yolo-oslo) - Repository of Cisco TelePresence endpoint in-room controls and macro samples (by acaeti).
 * jsxapi (standalone JavaScript)
-   * [jsxapi samples](https://github.com/CiscoDevNet/xapi-samples/tree/master/jsxapi) - Example scripts using the Node.js jsxapi (by ObjectIsAdvantag).
+   * [xapi-samples](https://github.com/CiscoDevNet/xapi-samples/tree/master/jsxapi) - Example scripts using the Node.js jsxapi (by ObjectIsAdvantag).
 * Macros
    * [macros-sample](https://github.com/CiscoDevNet/roomdevices-macros-samples) - Selection of macros proposed by the xAPI dev team (by Cisco CE).
    * [xapi-samples](https://github.com/CiscoDevNet/xapi-samples/tree/master/macros) - Macros to quickly ramp up with the xAPI of your Room Devices (by ObjectIsAdvantag).
-* Misc demos
+* Solutions
    * [cisco-tp-snapshots](https://github.com/drkchiloll/cisco-tp-snapshots) - Take Snapshots with your Cisco Room Device, aka Telepresence Endpoint (by drkchiloll).
    * [feedback-meeting](https://github.com/tloyau/feedback-meeting) - Dashboard built from feedback collected via a custom "Call Survey" control (by tloyau).
    * [MyRoomKit](https://github.com/CiscoDevNet/botkit-webex-samples/tree/master/roomkit) - Botkit chatbot as an extension of a RoomKit device (by ObjectIsAdvantag).  
@@ -69,6 +70,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [roomkit-react-map](https://github.com/ObjectIsAdvantag/roomkit-react-map) - React map showing PeopleCount analytics fired by a set of RoomKits (by ObjectIsAdvantag).
    * [telehealthPresence](https://github.com/voipnorm/telehealthPresence) - Add additional presence states for video endpoints in Jabber (by voipnorm).
    * [video status monitor](https://github.com/DJF3/Cisco-Video-System-Status-Monitor) - Web page displaying call status and people count/presence (by DJF3).
+
 
 
 ## Community Articles
