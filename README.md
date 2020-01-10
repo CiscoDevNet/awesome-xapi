@@ -21,7 +21,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [Building Blocks](#building-blocks)
 * [Code samples](#code-samples)
 * [Developer Tools](#developer-tools)
-   * [Sandbox](#sandboxes)
+   * [DevNet Sandbox](#sandboxes)
 * [Reference](#reference)
    * [PDF Guides](#reference-guides)
 * [3rd Party Hardware](#third-party)
@@ -104,12 +104,12 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Handy tools to build, test and deploy applications.*
 
-* <a name="sandboxes">Build</a> - Reserve a CE device and code for up to a week (by DevNet).
+* <a name="sandboxes">Sandbox</a> - Reserve a CE device and code for up to a week (by DevNet).
    * [CE 9.9 Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.9.
    * [CE 9.7 Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.7.
 * Test
-   * SIP addresses for testing purposes: 111@bjn.vc, fireplace@ivr.vc, goldfish@selfie.vc, halloween@ivr.vc, havnen@expressway.dk.
-   * [Playground](https://controls-editor.herokuapp.com) - Experience the UI Extensions Editor straight from Chrome, no codec (by ObjectIsAdvantag).
+   * [Playground](https://controls-editor.herokuapp.com) - Launch the UI Extensions Editor straight from Chrome, no codec (by ObjectIsAdvantag).
+   * SIP addresses for testing: 111@bjn.vc, fireplace@ivr.vc, goldfish@selfie.vc, halloween@ivr.vc, havnen@expressway.dk.
 * Deploy
    * [CE-Deploy](https://github.com/voipnorm/CE-Deploy) - Desktop application for deploying features (by voipnorm).
    * [CiscoTPCustomXML](https://github.com/voipnorm/CiscoTPCustomXML) - Deploy packages to Cisco Telepresence apps (by vipnorm).
