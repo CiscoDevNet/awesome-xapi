@@ -16,14 +16,14 @@ If you see a package or project here that is no longer maintained or is not a go
 
 DISCLAIMER: Cisco does not make any commitments about the resources listed in this document, nor the accuracy of the third party resources and any content accessible via the links below.
 
-- [!Get Started!](#!get-started!)
-- [Building Blocks](#building-blocks)
-- [Code samples](#code-samples)
-- [Community Articles](#community-articles)
-- [Developer Tools](#developer-tools)
-   - [Sandboxes](#sandboxes)
-- [Reference](#reference)
-   - [PDF Guides](#reference-guides)
+* [!Get Started!](#!get-started!)
+* [Building Blocks](#building-blocks)
+* [Code samples](#code-samples)
+* [Community Articles](#community-articles)
+* [Developer Tools](#developer-tools)
+   * [Sandboxes](#sandboxes)
+* [Reference](#reference)
+   * [PDF Guides](#reference-guides)
 
 
 ## !Get started!
@@ -36,7 +36,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [Personalizing your device](https://learninglabs.cisco.com/lab/collab-xapi-branding/step/1) - Add your own logo and custom messages from code (by Cisco DevNet).
 
 
-## 
+## Building Blocks
 
 *Helpder libraries to interact with CE codecs*
 
@@ -114,30 +114,31 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [Local user](https://collaborationhelp.cisco.com/article/en-us/jkhs20) - Local User Administration on Room and Desk Devices
    * [Screens setup tips](https://collaborationhelp.cisco.com/article/en-us/nyi4lcq) - Recommended external screen settings for Room Devices.
    * [USB input-device](https://help.webex.com/en-us/nhqh1mf/Example-on-the-Use-of-a-Third-Party-USB-Input-Device) - Use of a 3rd party USB input device.
-* Reference Portals and Dev Centers
-    * [Configuration guides](https://www.cisco.com/c/en/us/support/collaboration-endpoints/telepresence-quick-set-series/products-installation-and-configuration-guides-list.html) - Configure your Touch10 interface or 3rd party Video Switchers
-    * [Developer Portal](https://developer.cisco.com/site/roomdevices/) - Technical resources for developers and integrators.
-    * [Product resources](https://www.cisco.com/c/en/us/support/collaboration-endpoints/index.html) - Resources for all Supported Collaboration Endpoints.
-    * [Project Workplace](https://projectworkplace.cisco.com) - Discover Cisco's devices portfolio, product features and recommandations.
+* Portals and Dev Centers
+   * [Adoption Toolkits](https://community.cisco.com/t5/collaboration-adoption-documents/cisco-webex-devices-adoption-toolkits/ta-p/3832348) - Video value statements, quick-start guides, use cases and promotional posters.
+   * [Configuration guides](https://www.cisco.com/c/en/us/support/collaboration-endpoints/telepresence-quick-set-series/products-installation-and-configuration-guides-list.html) - Configure your Touch10 interface or 3rd party Video Switchers
+   * [Developer Portal](https://developer.cisco.com/site/roomdevices/) - Technical resources for developers and integrators.
+   * [Product resources](https://www.cisco.com/c/en/us/support/collaboration-endpoints/index.html) - Resources for all Supported Collaboration Endpoints.
+   * [Project Workplace](https://projectworkplace.cisco.com) - Discover Cisco's devices portfolio, product features and recommandations.
 * Technical Support
-    * [Forums](https://supportforums.cisco.com/t5/telepresence/bd-p/5886-discussions-telepresence) - Telepresence forum by Cisco Support Community.
-    * ['xAPI devs' space](https://eurl.io/#rkp76XDrG) - Chat live in Webex Teams with other developers.
+   * [Forums](https://supportforums.cisco.com/t5/telepresence/bd-p/5886-discussions-telepresence) - Telepresence forum by Cisco Support Community.
+   * ['xAPI devs' space](https://eurl.io/#rkp76XDrG) - Chat live in Webex Teams with other developers.
 * Troubleshooting
-    * [CE Release notes](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/software/ce9/release-notes/ce-software-release-notes-ce9.pdf) - New features and functionality in CE9.
-    * [Known issues](https://help.webex.com/en-us/llygcp/Known-and-Resolved-Issues-in-RoomOS) - Known and Resolved issues for RoomOS.
-    * [What's new](https://help.webex.com/en-us/6ger7db/What-s-New-in-RoomOS) - New features and capabilities for RoomOS.
+   * [CE Release notes](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/software/ce9/release-notes/ce-software-release-notes-ce9.pdf) - New features and functionality in CE9.
+   * [Known issues](https://help.webex.com/en-us/llygcp/Known-and-Resolved-Issues-in-RoomOS) - Known and Resolved issues for RoomOS.
+   * [What's new](https://help.webex.com/en-us/6ger7db/What-s-New-in-RoomOS) - New features and capabilities for RoomOS.
 * Videos
-    * [Customizing Devices](https://www.youtube.com/watch?v=h9Hv829SM14&list=PL_YnWo4XhzTe8CyOppyhheB8UN40mDYiX) - Introduction to Video Series.
-    * [Kiosk](https://www.youtube.com/watch?v=zn9gDuPwyrY) - Removing default buttons.
-    * [Presenter Track](https://www.youtube.com/watch?v=-MKlCT1xupM) - How PresenterTrack behaves in a few common scenarios.
-    * [Timer](https://www.youtube.com/watch?v=YNN9rFbT6bk) - Timer creation for Webex devices.
-    * [UI Extensions](https://www.youtube.com/watch?v=kEXjGpMdVaU&list=PL_YnWo4XhzTe8CyOppyhheB8UN40mDYiX&index=3) - Creating a speed dial.
-    * [Web Apps](https://www.youtube.com/watch?v=qKqlIReRJog&t=6s) - Creating Web Applications on a Webex Board.
+   * [Customizing Devices](https://www.youtube.com/watch?v=h9Hv829SM14&list=PL_YnWo4XhzTe8CyOppyhheB8UN40mDYiX) - Introduction to Video Series.
+   * [Kiosk](https://www.youtube.com/watch?v=zn9gDuPwyrY) - Removing default buttons.
+   * [Presenter Track](https://www.youtube.com/watch?v=-MKlCT1xupM) - How PresenterTrack behaves in a few common scenarios.
+   * [Timer](https://www.youtube.com/watch?v=YNN9rFbT6bk) - Timer creation for Webex devices.
+   * [UI Extensions](https://www.youtube.com/watch?v=kEXjGpMdVaU&list=PL_YnWo4XhzTe8CyOppyhheB8UN40mDYiX&index=3) - Creating a speed dial.
+   * [Web Apps](https://www.youtube.com/watch?v=qKqlIReRJog&t=6s) - Creating Web Applications on a Webex Board.
 * 3rd-party Control Systems
-    * [AMX/Harman](https://trade.amx.com/Net/Inconcert/Devices/inconcertmainpage.aspx)
-    * [Creston](http://applicationmarket.crestron.com/cisco/)
-    * [Extron](https://www.extron.com/company/article.aspx?id=ciscotouch)
-    * [Lightware](https://lightware.com/cisco-integration-tool/)
+   * [AMX/Harman](https://trade.amx.com/Net/Inconcert/Devices/inconcertmainpage.aspx)
+   * [Creston](http://applicationmarket.crestron.com/cisco/)
+   * [Extron](https://www.extron.com/company/article.aspx?id=ciscotouch)
+   * [Lightware](https://lightware.com/cisco-integration-tool/)
 
 
 ### Reference Guides
