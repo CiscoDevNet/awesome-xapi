@@ -21,7 +21,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [Building Blocks](#building-blocks)
 * [Code samples](#code-samples)
 * [Developer Tools](#developer-tools)
-   * [DevNet Sandbox](#sandboxes)
+   * [DevNet Sandbox](#sandbox)
 * [Reference](#reference)
    * [PDF Guides](#reference-guides)
 * [3rd Party Hardware](#third-party)
@@ -104,7 +104,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Handy tools to build, test and deploy applications.*
 
-* <a name="sandboxes">Sandbox</a> - Reserve a CE device and code for up to a week (by DevNet).
+* <a name="sandbox">Sandbox</a><a name="sandboxes"></a> - Reserve a CE device and code for up to a week (by DevNet).
    * [CE 9.9 Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.9.
    * [CE 9.7 Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.7.
 * Test
