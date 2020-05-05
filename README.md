@@ -145,6 +145,10 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *API Reference, Configuration and Administration guide for specific versions of CE and RoomOS.*
 
+* Product Documentation
+   * [Cisco TelePresence systems](https://www.cisco.com/go/telepresence/docs)
+   * [Cisco Webex registered devices](https://help.webex.com) 
+   * [Board Devices](https://www.cisco.com/go/board-docs), [DX](https://www.cisco.com/go/dx-docs), [MX](https://www.cisco.com/go/mx-docs), [Room Devices](https://www.cisco.com/go/room-docs), [SX](https://www.cisco.com/go/sx-docs)
 * CE 9.12
    * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce912/collaboration-endpoint-software-api-reference-guide-ce912.pdf),[Administrator Guide (CodecPro)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce912/codec-pro-administrator-guide-ce912.pdf), Customization Guide
 * CE 9.10
