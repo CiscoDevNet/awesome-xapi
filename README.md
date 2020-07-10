@@ -84,8 +84,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 * Repositories of examples
    * [CE9-projects](https://github.com/technologyordie/CE9-projects) - Projects for Cisco DX, MX, SX and Room Systems (by technologyordie).
-   * [macros-sample](https://github.com/CiscoDevNet/roomdevices-macros-samples) - Selection of macros proposed by the xAPI dev team (by Cisco CE).
-   * [xapi-samples](https://github.com/CiscoDevNet/xapi-samples) - UI extensions, macros and scripts to quickly ramp up (by ObjectIsAdvantag).
+   * [macro-projects-Examples](https://github.com/Bobby-McGonigle/Cisco-RoomDevice-Macro-Projects-Examples) - Cisco Video Endpoint Macro Repository (by Bobby-McGonigle).
+   * [roomdevices-macros-samples](https://github.com/CiscoDevNet/roomdevices-macros-samples) - Selection of macros proposed by the xAPI dev team (by Cisco CE).
+   * [xapi-samples](https://github.com/CiscoDevNet/xapi-samples) - UI extensions, macros and scripts to quickly learn xAPI (by ObjectIsAdvantag).
    * [yolo-oslo](https://github.com/acaeti/yolo-oslo) - Repository of in-room controls and macro samples (by acaeti).
 * Solutions
    * [cisco-tp-snapshots](https://github.com/drkchiloll/cisco-tp-snapshots) - Take snapshots with your Cisco Room Device, aka Telepresence Endpoint (by drkchiloll).
