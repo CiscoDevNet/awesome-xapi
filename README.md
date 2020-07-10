@@ -19,7 +19,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [!Get Started!](#!get-started!)
 * [Articles and Blogs](#articles)
 * [Building Blocks](#building-blocks)
-* [Code samples](#code-samples)
+* [Code Samples](#code-samples)
 * [Developer Tools](#developer-tools)
    * [DevNet Sandbox](#sandbox)
 * [Reference](#reference)
@@ -27,7 +27,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [3rd Party Hardware](#third-party)
 
 
-## !Get started!
+## !Get Started!
 
 *Tour the xAPI via step-by-step tutorials.*
 
@@ -78,7 +78,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [pyxows](https://github.com/cisco-ce/pyxows) - Python bindings for Cisco Collaboration Endpoint xAPI over WebSockets (by Cisco CE).
 
 
-## Code samples
+## Code Samples
 
 *From basic examples to finalized solutions illustrating the xAPI capabilities.*
 
