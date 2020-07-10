@@ -92,7 +92,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [cisco-tp-snapshots](https://github.com/drkchiloll/cisco-tp-snapshots) - Take snapshots with your Cisco Room Device, aka Telepresence Endpoint (by drkchiloll).
    * [codec-dashboard](https://github.com/gsheppar/codec-dashboard) - Web dashboard to display/alert on codec information (by gsheppar).
    * [feedback-meeting](https://github.com/tloyau/feedback-meeting) - Dashboard built from feedback collected via a custom "Call Survey" control (by tloyau).
-   * [macros-env](https://github.com/ObjectIsAdvantag/macros-env) - Enhance your macro runtime with environment variables (by ObjectIsAdvantag).
    * [maze game](https://github.com/CiscoDevNet/xapi-samples/tree/master/controls/maze) - Navigate blind in a maze, look for the treasure (by ObjectIsAdvantag).
    * [MyRoomKit](https://github.com/CiscoDevNet/botkit-webex-samples/tree/master/roomkit) - Botkit chatbot as an extension of a RoomKit device (by ObjectIsAdvantag).  
    * [roomie](https://bitbucket.org/bjolseth/roomie) - App reporting whether there are people in the meeting rooms (by bjolseth).
@@ -104,17 +103,18 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Developer Tools
 
-*Handy tools to build, test and deploy applications.*
+*Handy tools and building-blocks to create, test and deploy applications.*
 
 * <a name="sandbox">Sandbox</a><a name="sandboxes"></a> - Reserve a CE device and code for up to a week (by DevNet).
-   * [CE 9.9 Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.9.
-   * [CE 9.7 Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.7.
+   * [CE9.9 Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.9.
+   * [CE9.7 Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.7.1.
 * Test
    * [Playground](https://controls-editor.herokuapp.com) - Launch the UI Extensions Editor straight from Chrome, no codec (by ObjectIsAdvantag).
    * SIP test addresses - 111@bjn.vc, fireplace@ivr.vc, goldfish@selfie.vc, halloween@ivr.vc, havnen@expressway.dk.
 * Deploy
    * [CE-Deploy](https://github.com/voipnorm/CE-Deploy) - Desktop application for deploying features (by voipnorm).
    * [CiscoTPCustomXML](https://github.com/voipnorm/CiscoTPCustomXML) - Deploy packages to Cisco Telepresence apps (by vipnorm).
+   * [macros-env](https://github.com/ObjectIsAdvantag/macros-env) - Enhance your macro runtime with environment variables (by ObjectIsAdvantag).
 
 
 ## Reference
