@@ -99,6 +99,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [roomkit-react-map](https://github.com/ObjectIsAdvantag/roomkit-react-map) - React map showing PeopleCount analytics fired by a set of RoomKits (by ObjectIsAdvantag).
    * [telehealthPresence](https://github.com/voipnorm/telehealthPresence) - Add additional presence states for video endpoints in Jabber (by voipnorm).
    * [video status monitor](https://github.com/DJF3/Cisco-Video-System-Status-Monitor) - Web page displaying call status and people count/presence (by DJF3).
+   * [kanye quotes](https://github.com/levensailor/kanye-quotes) - Kanye West quotes "Screensaver" halfwake state for your Webex Device (by levensailor)
 
 
 ## Developer Tools
