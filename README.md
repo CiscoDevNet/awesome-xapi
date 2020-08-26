@@ -106,8 +106,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Handy tools and building-blocks to create, test and deploy applications.*
 
 * <a name="sandbox">Sandbox</a><a name="sandboxes"></a> - Reserve a CE device and code for up to a week (by DevNet).
+   * [CE9.13 Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit equiped with CE 9.13.
    * [CE9.9 Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.9.
-   * [CE9.7 Sandbox](https://devnetsandbox.cisco.com/RM/Diagram/Index/aada7ed1-18ed-491d-97ad-17ae3a11faba?diagramType=Topology) - RoomKit Sandbox equiped with CE 9.7.1.
 * Test
    * [Playground](https://controls-editor.herokuapp.com) - Launch the UI Extensions Editor straight from Chrome, no codec (by ObjectIsAdvantag).
    * SIP test addresses - 111@bjn.vc, fireplace@ivr.vc, goldfish@selfie.vc, halloween@ivr.vc, havnen@expressway.dk.
