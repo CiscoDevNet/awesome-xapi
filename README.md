@@ -70,7 +70,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [sugar](https://github.com/valgaze/sugar) - Syntactic "$ugar" for handling user input (by valgaze).
 * Postman
    * [ce-xapi-as-admin](https://explore.postman.com/api/1802/cisco-ce-xapi-as-admin) - Collection for CE xAPI as Administrator (by ObjectIsAdvantag).
-   * [ce-xapi-as-integrator](https://explore.postman.com/api/1802/cisco-ce-xapi-as-integrator) - Collection for CE xAPI as Integrator (by ObjectIsAdvantag).
+   * [ce-xapi-as-integrator](https://explore.postman.com/api/1803/cisco-ce-xapi-as-integrator) - Collection for CE xAPI as Integrator (by ObjectIsAdvantag).
    * [webex-admin-api](https://explore.postman.com/api/1805/webex-admin-api) - Collection for Webex Administrators (by ObjectIsAdvantag).
    * [webex-devices-xapi](https://explore.postman.com/api/7483/) - Collection for cloud /xAPI (by ObjectIsAdvantag).
 * PowerShell
