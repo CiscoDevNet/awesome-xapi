@@ -1,16 +1,14 @@
 # Awesome xAPI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/awesome-xapi)
 
-A curated list of developer resources for [**Webex Room and Desk Devices**](https://www.webex.com/products/devices/index.html) inspired by awesome-go and awesome-python.
+A curated list of developer resources for [**Webex Devices API**](https://cs.co/roomdevices) inspired by awesome-go and awesome-python.
 
-> Looking for developer resources for **[Webex Teams](https://www.webex.com/products/teams/)**? check [awesome-webex](https://github.com/CiscoDevNet/awesome-webex).<br/>
-
+> Looking for developer resources for **Webex Messaging and Meetings**? check [awesome-webex](https://github.com/CiscoDevNet/awesome-webex).<br/>
 
 ### Contributing
 
 Please take a quick gander at the [Contribution guidelines](./CONTRIBUTING.md) first. Thanks to all contributors; you rock!
 
 If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
-
 
 ### Contents
 
@@ -71,7 +69,10 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [jsxapi](https://github.com/cisco-ce/jsxapi) - JavaScript bindings for Cisco Collaboration Endpoint  XAPI (by Cisco CE).
    * [sugar](https://github.com/valgaze/sugar) - Syntactic "$ugar" for handling user input (by valgaze).
 * Postman
-   * [postman-xapi](https://github.com/CiscoDevNet/postman-xapi) - Postman collections for xAPI (by ObjectIsAdvantag).
+   * [ce-xapi-as-admin](https://explore.postman.com/api/1802/cisco-ce-xapi-as-admin) - Collection for CE xAPI as Administrator (by ObjectIsAdvantag).
+   * [ce-xapi-as-integrator](https://explore.postman.com/api/1802/cisco-ce-xapi-as-integrator) - Collection for CE xAPI as Integrator (by ObjectIsAdvantag).
+   * [webex-admin-api](https://explore.postman.com/api/1805/webex-admin-api) - Collection for Webex Administrators (by ObjectIsAdvantag).
+   * [webex-devices-xapi](https://explore.postman.com/api/7483/) - Collection for cloud /xAPI (by ObjectIsAdvantag).
 * PowerShell
    * [Send-XCommand](https://github.com/unifiedfx/Send-XCommand) - Cmdlets for sending xConfiguration & xCommand requests (by stephenwelsh).
 * Python
