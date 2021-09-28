@@ -152,6 +152,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    * [Cisco TelePresence systems](https://www.cisco.com/go/telepresence/docs)
    * [Cisco Webex registered devices](https://help.webex.com) 
    * [Board Devices](https://www.cisco.com/go/board-docs), [DX](https://www.cisco.com/go/dx-docs), [MX](https://www.cisco.com/go/mx-docs), [Room Devices](https://www.cisco.com/go/room-docs), [SX](https://www.cisco.com/go/sx-docs)
+* RoomOS 10.3
+   * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/roomos-103/api-reference-guide-roomos-103.pdf)
 * CE 9.15
    * [API Reference Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce915/collaboration-endpoint-software-api-reference-guide-ce915.pdf), [Administrator Guide (CodecPro)](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce915/codec-pro-administrator-guide-ce915.pdf), [Customization Guide](https://www.cisco.com/c/dam/en/us/td/docs/telepresence/endpoint/ce915/sx-mx-dx-room-kit-boards-customization-guide-ce915.pdf), Getting Started Guide (not available)
 * CE 9.14
